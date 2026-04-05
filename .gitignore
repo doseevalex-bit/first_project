@@ -22,3 +22,5 @@ __pycache__/
 .DS_Store  # macOS
 
 tmp_data.txt
+
+1.env
